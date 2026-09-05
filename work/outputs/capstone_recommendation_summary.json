@@ -1,0 +1,13 @@
+{
+  "total_pages": 30000,
+  "p1_pages": 5196,
+  "p2_pages": 19892,
+  "p3_pages": 4912,
+  "action_counts": {
+    "CONTENT_AND_INTENT_REVIEW": 15790,
+    "CTR_OPTIMIZATION_REVIEW": 5846,
+    "MONITOR": 5199,
+    "PRIORITY_SEO_REVIEW": 3058,
+    "REFRESH_REVIEW": 107
+  }
+}
